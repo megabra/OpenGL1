@@ -1,0 +1,6 @@
+C:/Users/micac/Documents/graphic/build/CMakeFiles/test.dir
+C:/Users/micac/Documents/graphic/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/micac/Documents/graphic/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/micac/Documents/graphic/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/micac/Documents/graphic/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/Users/micac/Documents/graphic/build/external/glfw/src/CMakeFiles/update_mappings.dir

@@ -1,0 +1,9 @@
+{
+	"InstallScripts" : 
+	[
+		"C:/Users/micac/Documents/graphic/build/cmake_install.cmake",
+		"C:/Users/micac/Documents/graphic/build/external/glfw/cmake_install.cmake",
+		"C:/Users/micac/Documents/graphic/build/external/glfw/src/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
